@@ -1,0 +1,7 @@
+{
+  "name": "mmld-yuanbao",
+  "version": "2.0.0",
+  "description": "星野本地生活GEO-腾讯元宝微信生态专属Skills弹药库",
+  "entrypoint": "mmld_yuanbao_v2.py",
+  "platforms": ["linux", "macos", "windows"]
+}
